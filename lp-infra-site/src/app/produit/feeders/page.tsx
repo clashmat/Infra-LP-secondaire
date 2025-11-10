@@ -1,1 +1,0 @@
-export default function Page(){return (<div className='mx-auto max-w-5xl px-4 md:px-6 py-16'><h1 className='h2'>Feeders par fonds</h1><p className='body mt-4'>Feeder SPV dédié par fonds, tokenisation des parts, un seul LP côté GP.</p></div>)}

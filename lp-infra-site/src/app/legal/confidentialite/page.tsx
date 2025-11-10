@@ -1,1 +1,0 @@
-export default function Page(){return (<div className='mx-auto max-w-5xl px-4 md:px-6 py-16'><h1 className='h2'>Confidentialité</h1><p className='body mt-4'>RGPD, cookies, analytics.</p></div>)}

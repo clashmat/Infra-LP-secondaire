@@ -1,1 +1,0 @@
-export default function Page(){return (<div className='mx-auto max-w-5xl px-4 md:px-6 py-16'><h1 className='h2'>Conditions d’utilisation</h1><p className='body mt-4'>Contenu à compléter.</p></div>)}
