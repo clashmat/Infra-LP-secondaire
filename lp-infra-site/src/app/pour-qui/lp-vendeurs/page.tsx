@@ -1,0 +1,1 @@
+export default function Page(){return (<div className='mx-auto max-w-5xl px-4 md:px-6 py-16'><h1 className='h2'>LP vendeurs</h1><p className='body mt-4'>Process de cession standardisé, check‑list docs, délais, confidentialité.</p></div>)}

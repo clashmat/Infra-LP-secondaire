@@ -1,0 +1,1 @@
+export default function Page(){return (<div className='mx-auto max-w-xl px-4 md:px-6 py-16'><h1 className='h2'>Onboarding</h1><p className='body mt-4'>Étape 1/3 — Email, pays de résidence, type d’investisseur.</p></div>)}

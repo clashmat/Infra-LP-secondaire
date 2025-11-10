@@ -1,0 +1,1 @@
+export default function Page(){return (<div className='mx-auto max-w-5xl px-4 md:px-6 py-16'><h1 className='h2'>Auctions</h1><p className='body mt-4'>Fenêtres planifiées, prime d’enchère, allocation pro‑rata, DvP.</p></div>)}
